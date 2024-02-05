@@ -7,7 +7,7 @@ function arrayDiff(a, b) {
     //     if (element == true) {
     //         arry.push(a[i])
             
-    //     } 
+    //     } <
         
     // }
     // return arry
