@@ -9,6 +9,8 @@ function disemvowel(str) {
         }
     }
     return str1
+
+    // return str.replace(/[aeiou]/gi, '');
 }
 console.log(disemvowel('Ths wbst s fr lsrs LOL!'))
 console.log(disemvowel('ohOH uevycdijAHBwjeQpa WREJSeAAmuru iqaflGllKTaOxOLvYZ buQAeeiDykmYHIiMOV pCNhCGMzZFhAVse cKsaro nmaAJvJ hPHUxUNEasoAt ONvqcFoxf'))
