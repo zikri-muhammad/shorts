@@ -21,10 +21,10 @@ function XO(str) {
             x++
         } 
     }
-    if (x === o) {
-        return true
-    } 
-    return false
+    // if (x === o) {
+    return (x === o) ? true : false
+    // } 
+    // return false
 
 }
 
